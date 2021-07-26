@@ -1,4 +1,4 @@
-package FundamentosKotlinCod3er
+package fundamentosKotlinCod3er
 
 fun main() {
     val name: String = "Adilson"
@@ -7,8 +7,11 @@ fun main() {
     var a: Int  // Tip Inferior
     a = 10
 
-    const val CIDADE = "Belo Horizonte"
-
     var b: Unit
-    
+
+
+    val raio: Double = 4.5
+    val pi: Double = Math.PI
+    print(raio * raio * pi)
+
 }
