@@ -1,4 +1,4 @@
-package fundamentosKotlinCod3er.estruturaDeControle
+package fundamentosKotlinCod3er.fundamentos.estruturaDeControle
 
 fun main() {
     val nota = 3

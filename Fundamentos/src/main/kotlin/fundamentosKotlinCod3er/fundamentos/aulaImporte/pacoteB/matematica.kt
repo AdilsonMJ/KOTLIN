@@ -1,4 +1,4 @@
-package fundamentosKotlinCod3er.aulaImporte.pacoteB
+package fundamentosKotlinCod3er.fundamentos.aulaImporte.pacoteB
 
 fun soma(a: Int, b: Int): Int{
     return a +b

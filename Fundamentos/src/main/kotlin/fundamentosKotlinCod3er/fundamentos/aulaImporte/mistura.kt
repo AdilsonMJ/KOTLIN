@@ -1,4 +1,4 @@
-package fundamentosKotlinCod3er.aulaImporte.pacoteA
+package fundamentosKotlinCod3er.fundamentos.aulaImporte.pacoteA
 
 fun simplesFun(texto: String): String{
     return "Texto = $texto"

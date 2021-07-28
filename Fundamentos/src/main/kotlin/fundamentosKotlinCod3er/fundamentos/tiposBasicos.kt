@@ -1,4 +1,4 @@
-package fundamentosKotlinCod3er
+package fundamentosKotlinCod3er.fundamentos
 
 fun main() {
     // Inteiro e numeros maximos
